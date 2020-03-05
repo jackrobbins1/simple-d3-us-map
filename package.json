@@ -1,0 +1,40 @@
+{
+  "name": "simple-d3-us-map",
+  "version": "1.0.0",
+  "description": "Straight forward example of using D3 to render a classic Albers projection of the U.S. with animated landmark pins",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackrobbins1/simple-d3-us-map.git"
+  },
+  "keywords": [
+    "d3",
+    "d3-geo",
+    "albers",
+    "US",
+    "USA",
+    "map"
+  ],
+  "author": "Jackson Robbins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackrobbins1/simple-d3-us-map/issues"
+  },
+  "homepage": "https://github.com/jackrobbins1/simple-d3-us-map#readme",
+  "devDependencies": {
+    "@rollup/plugin-json": "^4.0.2",
+    "@rollup/plugin-node-resolve": "^7.1.1",
+    "rollup": "^1.32.0",
+    "rollup-plugin-node-globals": "^1.4.0",
+    "rollup-plugin-scss": "^2.1.0"
+  },
+  "dependencies": {
+    "d3": "^5.15.0",
+    "d3-geo": "^1.11.9",
+    "tippy.js": "^6.0.0",
+    "topojson-client": "^3.1.0"
+  }
+}
