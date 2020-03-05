@@ -1,3 +1,7 @@
+.a-pin {
+  fill: red;
+  stroke: black; }
+
 .tippy-box[data-animation=shift-away][data-state=hidden] {
   opacity: 0; }
 

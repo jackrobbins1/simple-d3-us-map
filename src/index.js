@@ -2,6 +2,7 @@
 import usMap from './map.js';
 import 'tippy.js/dist/tippy.css';
 import 'tippy.js/animations/shift-away.css';
+import './styles/map.css'
 
 const mapContainer = document.getElementById('us-map');
 
