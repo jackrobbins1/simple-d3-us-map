@@ -6,7 +6,7 @@ import globals from 'rollup-plugin-node-globals';
 export default {
     input: 'src/index.js',
     output: {
-      file: 'dist/bundle.js',
+      file: 'docs/bundle.js',
       format: 'iife'
     },
     plugins: [
