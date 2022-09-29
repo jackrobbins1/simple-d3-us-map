@@ -32,7 +32,7 @@
     "rollup-plugin-scss": "^2.1.0"
   },
   "dependencies": {
-    "d3": "^5.15.0",
+    "d3": "^7.6.1",
     "d3-geo": "^1.11.9",
     "tippy.js": "^6.0.0",
     "topojson-client": "^3.1.0"
